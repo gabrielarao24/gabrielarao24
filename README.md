@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Gab!
 🧑‍🎓 I’m a third year student at University of the East<br>👯 I love coding and coffee<br>🤝 Friendly coder and a beginner<br>🌱 I’m currently learning MVC and other tech stacks<br>💬 Ask me about anything<br>⚡ Fun fact I'm hungry for knowledge
 
 
